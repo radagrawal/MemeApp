@@ -1,0 +1,6 @@
+framework module InterfaceRecord {
+  umbrella header "InterfaceRecord-umbrella.h"
+
+  export *
+  module * { export * }
+}

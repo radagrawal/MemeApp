@@ -1,0 +1,170 @@
+PODS:
+  - CameraCommon (1.0.0-beta):
+    - CameraTelemetry (= 1.0.0-beta)
+  - CameraDevice (1.0.0-beta):
+    - CameraCommon (= 1.0.0-beta)
+  - CameraIO (1.0.0-beta):
+    - CameraCommon (= 1.0.0-beta)
+    - CameraTelemetry (= 1.0.0-beta)
+  - CameraTelemetry (1.0.0-beta)
+  - CameraTransform (1.0.0-beta):
+    - CameraCommon (= 1.0.0-beta)
+  - DefaultBoards (1.0.0-beta):
+    - EffectBoard (= 1.0.0-beta)
+  - DefaultFilter (1.0.0-beta):
+    - EffectFilter (= 1.0.0-beta)
+  - DefaultFont (1.0.0-beta):
+    - EffectText (= 1.0.0-beta)
+  - EffectBitmapOverlay (1.0.0-beta):
+    - EffectCommon (= 1.0.0-beta)
+    - InterfaceCommon (= 1.0.0-beta)
+  - EffectBoard (1.0.0-beta):
+    - EffectBitmapOverlay (= 1.0.0-beta)
+  - EffectCommon (1.0.0-beta):
+    - CameraCommon (= 1.0.0-beta)
+    - CameraTransform (= 1.0.0-beta)
+  - EffectFilter (1.0.0-beta):
+    - EffectCommon (= 1.0.0-beta)
+    - InterfaceCommon (= 1.0.0-beta)
+    - OneCameraGradientFilter (= 1.0.0-beta)
+  - EffectPen (1.0.0-beta):
+    - EffectBitmapOverlay (= 1.0.0-beta)
+  - EffectPhoto (1.0.0-beta):
+    - EffectSticker (= 1.0.0-beta)
+  - EffectSticker (1.0.0-beta):
+    - EffectBitmapOverlay (= 1.0.0-beta)
+  - EffectText (1.0.0-beta):
+    - EffectSticker (= 1.0.0-beta)
+  - InterfaceCommon (1.0.0-beta):
+    - CameraCommon (= 1.0.0-beta)
+    - CameraTransform (= 1.0.0-beta)
+  - InterfaceEdit (1.0.0-beta):
+    - InterfaceCommon (= 1.0.0-beta)
+  - InterfaceRecord (1.0.0-beta):
+    - InterfaceCommon (= 1.0.0-beta)
+  - OCDefaultImplementation (1.0.0-beta):
+    - CameraDevice (= 1.0.0-beta)
+    - CameraIO (= 1.0.0-beta)
+    - CameraTelemetry (= 1.0.0-beta)
+    - DefaultBoards (= 1.0.0-beta)
+    - DefaultFilter (= 1.0.0-beta)
+    - DefaultFont (= 1.0.0-beta)
+    - EffectBitmapOverlay (= 1.0.0-beta)
+    - EffectBoard (= 1.0.0-beta)
+    - EffectCommon (= 1.0.0-beta)
+    - EffectFilter (= 1.0.0-beta)
+    - EffectPen (= 1.0.0-beta)
+    - EffectPhoto (= 1.0.0-beta)
+    - EffectText (= 1.0.0-beta)
+    - InterfaceCommon (= 1.0.0-beta)
+    - InterfaceEdit (= 1.0.0-beta)
+    - InterfaceRecord (= 1.0.0-beta)
+    - OneCamera (= 1.0.0-beta)
+  - OneCamera (1.0.0-beta):
+    - CameraDevice (= 1.0.0-beta)
+    - CameraIO (= 1.0.0-beta)
+    - CameraTelemetry (= 1.0.0-beta)
+    - EffectCommon (= 1.0.0-beta)
+    - InterfaceCommon (= 1.0.0-beta)
+    - InterfaceEdit (= 1.0.0-beta)
+    - InterfaceRecord (= 1.0.0-beta)
+  - OneCameraGradientFilter (1.0.0-beta):
+    - CameraCommon (= 1.0.0-beta)
+
+DEPENDENCIES:
+  - CameraCommon (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - CameraDevice (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - CameraIO (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - CameraTelemetry (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - CameraTransform (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - DefaultBoards (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - DefaultFilter (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - DefaultFont (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - EffectBitmapOverlay (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - EffectBoard (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - EffectCommon (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - EffectFilter (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - EffectPen (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - EffectPhoto (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - EffectSticker (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - EffectText (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - InterfaceCommon (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - InterfaceEdit (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - InterfaceRecord (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - OCDefaultImplementation (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - OneCamera (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+  - OneCameraGradientFilter (from `/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/`)
+
+EXTERNAL SOURCES:
+  CameraCommon:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  CameraDevice:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  CameraIO:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  CameraTelemetry:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  CameraTransform:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  DefaultBoards:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  DefaultFilter:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  DefaultFont:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  EffectBitmapOverlay:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  EffectBoard:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  EffectCommon:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  EffectFilter:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  EffectPen:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  EffectPhoto:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  EffectSticker:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  EffectText:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  InterfaceCommon:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  InterfaceEdit:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  InterfaceRecord:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  OCDefaultImplementation:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  OneCamera:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+  OneCameraGradientFilter:
+    :path: "/Users/radhikaagrawal/Desktop/FGRECORDER/OneCameraiOS/"
+
+SPEC CHECKSUMS:
+  CameraCommon: d7a20b93c8a3df8eb4edd532d21101206cdfc5a6
+  CameraDevice: 2f667bd14480586996239ece8d63f42a8f1a5e6d
+  CameraIO: 6c101c55b288a20b4582ff8ecc23b26451fad2c8
+  CameraTelemetry: 87626140eb4d7b1dc24464e0597a473cca7a8667
+  CameraTransform: 232921e559875fb40ce8a03ec0d152e3cf441ebb
+  DefaultBoards: f10d4f17aaa3304a5e2c3e7ea7e4bf9fef757b33
+  DefaultFilter: 6ed49485e8945bb2c01b49c4c5e868d60036ae25
+  DefaultFont: 4e5ad6470e20f476650e04e044a9ad807b135412
+  EffectBitmapOverlay: 15b74b37e2a1f3d6e151fce484c9255cb732bb6c
+  EffectBoard: d65544a2f12de12b1c6ce44f45c9b1ce21d0ba1f
+  EffectCommon: c6f86b7c45e5fad201dd52f8a442b348dd793326
+  EffectFilter: 943a36f668a8523b86cfd78a57c33c87acffd5bd
+  EffectPen: 3e629bedfe9a61611068dfa58b346545acab527b
+  EffectPhoto: 29d8a5a5065d5dd5847e7cbba90771bfed469c20
+  EffectSticker: 622f383c82f674b8a9d94f247a43a4b2835296a7
+  EffectText: 14b3cbe06a2f1644a0e7724baea7a600b7f25431
+  InterfaceCommon: d76bd334ef2877430830e67cd5de970a024aa4b2
+  InterfaceEdit: 6903cfa87cd8f47895a3031cbfae97afa905e72f
+  InterfaceRecord: fa5bab54b09b5078665defcd712c25763001e750
+  OCDefaultImplementation: 04fee3c2f7e775108ec839ae8effa241a72d7e5a
+  OneCamera: f0a83318d6f74e627144f409d5d5996acbd6de35
+  OneCameraGradientFilter: 8905245faf9c8c30edc6a32e3dc2a81959739410
+
+PODFILE CHECKSUM: 75933691105a9d9ef9de4c5057ad7f58114ee6b9
+
+COCOAPODS: 1.11.3

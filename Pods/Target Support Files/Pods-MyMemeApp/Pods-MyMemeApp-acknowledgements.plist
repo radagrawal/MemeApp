@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>FooterText</key>
+			<string>This application makes use of the following third party libraries:</string>
+			<key>Title</key>
+			<string>Acknowledgements</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>CameraCommon</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>CameraDevice</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>CameraIO</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>CameraTelemetry</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>CameraTransform</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>DefaultBoards</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>DefaultFilter</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>DefaultFont</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>EffectBitmapOverlay</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>EffectBoard</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright 2022 Flipgrid
+All Rights Reserved
+</string>
+			<key>License</key>
+			<string>All Rights Reserved</string>
+			<key>Title</key>
+			<string>EffectCommon</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>EffectFilter</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright 2022 Flipgrid
+All Rights Reserved
+</string>
+			<key>License</key>
+			<string>All Rights Reserved</string>
+			<key>Title</key>
+			<string>EffectPen</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright 2022 Flipgrid
+All Rights Reserved
+</string>
+			<key>License</key>
+			<string>All Rights Reserved</string>
+			<key>Title</key>
+			<string>EffectPhoto</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>EffectSticker</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright 2022 Flipgrid
+All Rights Reserved
+</string>
+			<key>License</key>
+			<string>All Rights Reserved</string>
+			<key>Title</key>
+			<string>EffectText</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>InterfaceCommon</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright 2022 Flipgrid
+All Rights Reserved
+</string>
+			<key>License</key>
+			<string>All Rights Reserved</string>
+			<key>Title</key>
+			<string>InterfaceEdit</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright 2022 Flipgrid
+All Rights Reserved
+</string>
+			<key>License</key>
+			<string>All Rights Reserved</string>
+			<key>Title</key>
+			<string>InterfaceRecord</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>OCDefaultImplementation</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright (c) Microsoft Corporation.  All rights reserved.</string>
+			<key>License</key>
+			<string>Copyright</string>
+			<key>Title</key>
+			<string>OneCamera</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Copyright 2022 Flipgrid
+All Rights Reserved
+</string>
+			<key>License</key>
+			<string>All Rights Reserved</string>
+			<key>Title</key>
+			<string>OneCameraGradientFilter</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>Generated by CocoaPods - https://cocoapods.org</string>
+			<key>Title</key>
+			<string></string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Acknowledgements</string>
+	<key>Title</key>
+	<string>Acknowledgements</string>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+${PODS_ROOT}/Target Support Files/Pods-MyMemeApp/Pods-MyMemeApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CameraCommon/CameraCommon.framework
+${BUILT_PRODUCTS_DIR}/CameraDevice/CameraDevice.framework
+${BUILT_PRODUCTS_DIR}/CameraIO/CameraIO.framework
+${BUILT_PRODUCTS_DIR}/CameraTelemetry/CameraTelemetry.framework
+${BUILT_PRODUCTS_DIR}/CameraTransform/CameraTransform.framework
+${BUILT_PRODUCTS_DIR}/DefaultBoards/DefaultBoards.framework
+${BUILT_PRODUCTS_DIR}/DefaultFilter/DefaultFilter.framework
+${BUILT_PRODUCTS_DIR}/DefaultFont/DefaultFont.framework
+${BUILT_PRODUCTS_DIR}/EffectBitmapOverlay/EffectBitmapOverlay.framework
+${BUILT_PRODUCTS_DIR}/EffectBoard/EffectBoard.framework
+${BUILT_PRODUCTS_DIR}/EffectCommon/EffectCommon.framework
+${BUILT_PRODUCTS_DIR}/EffectFilter/EffectFilter.framework
+${BUILT_PRODUCTS_DIR}/EffectPen/EffectPen.framework
+${BUILT_PRODUCTS_DIR}/EffectPhoto/EffectPhoto.framework
+${BUILT_PRODUCTS_DIR}/EffectSticker/EffectSticker.framework
+${BUILT_PRODUCTS_DIR}/EffectText/EffectText.framework
+${BUILT_PRODUCTS_DIR}/InterfaceCommon/InterfaceCommon.framework
+${BUILT_PRODUCTS_DIR}/InterfaceEdit/InterfaceEdit.framework
+${BUILT_PRODUCTS_DIR}/InterfaceRecord/InterfaceRecord.framework
+${BUILT_PRODUCTS_DIR}/OCDefaultImplementation/OCDefaultImplementation.framework
+${BUILT_PRODUCTS_DIR}/OneCamera/OneCamera.framework
+${BUILT_PRODUCTS_DIR}/OneCameraGradientFilter/OneCameraGradientFilter.framework

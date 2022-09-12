@@ -1,0 +1,6 @@
+framework module CameraTelemetry {
+  umbrella header "CameraTelemetry-umbrella.h"
+
+  export *
+  module * { export * }
+}

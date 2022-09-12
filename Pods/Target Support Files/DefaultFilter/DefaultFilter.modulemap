@@ -1,0 +1,6 @@
+framework module DefaultFilter {
+  umbrella header "DefaultFilter-umbrella.h"
+
+  export *
+  module * { export * }
+}

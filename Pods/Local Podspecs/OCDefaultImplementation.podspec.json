@@ -1,0 +1,79 @@
+{
+  "name": "OCDefaultImplementation",
+  "version": "1.0.0-beta",
+  "summary": "Shared interfaces and models.",
+  "license": {
+    "type": "Copyright",
+    "text": "Copyright (c) Microsoft Corporation.  All rights reserved."
+  },
+  "homepage": "https://dev.azure.com/OneCamera/SDK/_git/OneCameraiOS",
+  "authors": {
+    "OneCamera": "onecameramobile@microsoft.com"
+  },
+  "source": {
+    "git": "https://OneCamera@dev.azure.com/OneCamera/SDK/_git/OneCameraiOS",
+    "tag": "1.0.0-beta"
+  },
+  "source_files": "Sources/OCDefaultImplementation/**/*.swift",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.3",
+  "pod_target_xcconfig": {
+    "BUILD_LIBRARY_FOR_DISTRIBUTION": "YES"
+  },
+  "dependencies": {
+    "InterfaceCommon": [
+      "1.0.0-beta"
+    ],
+    "InterfaceRecord": [
+      "1.0.0-beta"
+    ],
+    "InterfaceEdit": [
+      "1.0.0-beta"
+    ],
+    "EffectCommon": [
+      "1.0.0-beta"
+    ],
+    "CameraIO": [
+      "1.0.0-beta"
+    ],
+    "CameraDevice": [
+      "1.0.0-beta"
+    ],
+    "CameraTelemetry": [
+      "1.0.0-beta"
+    ],
+    "OneCamera": [
+      "1.0.0-beta"
+    ],
+    "EffectBitmapOverlay": [
+      "1.0.0-beta"
+    ],
+    "EffectPen": [
+      "1.0.0-beta"
+    ],
+    "EffectPhoto": [
+      "1.0.0-beta"
+    ],
+    "EffectFilter": [
+      "1.0.0-beta"
+    ],
+    "EffectText": [
+      "1.0.0-beta"
+    ],
+    "DefaultBoards": [
+      "1.0.0-beta"
+    ],
+    "DefaultFilter": [
+      "1.0.0-beta"
+    ],
+    "EffectBoard": [
+      "1.0.0-beta"
+    ],
+    "DefaultFont": [
+      "1.0.0-beta"
+    ]
+  },
+  "swift_version": "5.3"
+}

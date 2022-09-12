@@ -1,0 +1,6 @@
+framework module DefaultFont {
+  umbrella header "DefaultFont-umbrella.h"
+
+  export *
+  module * { export * }
+}

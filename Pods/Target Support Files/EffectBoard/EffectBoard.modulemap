@@ -1,0 +1,6 @@
+framework module EffectBoard {
+  umbrella header "EffectBoard-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "EffectPen",
+  "version": "1.0.0-beta",
+  "summary": "Shared interfaces and models.",
+  "license": {
+    "type": "All Rights Reserved",
+    "text": "                   Copyright 2022 Flipgrid\n                   All Rights Reserved\n"
+  },
+  "homepage": "https://dev.azure.com/OneCamera/SDK/_git/OneCameraiOS",
+  "authors": {
+    "Flipgrid": "info@flipgrid.com"
+  },
+  "source": {
+    "git": "https://OneCamera@dev.azure.com/OneCamera/SDK/_git/OneCameraiOS",
+    "tag": "1.0.0-beta"
+  },
+  "source_files": "Sources/Effect/EffectPen/**/*.swift",
+  "resource_bundles": {
+    "EffectPenResources": [
+      "Sources/Effect/EffectPen/Resources/*/**",
+      "Sources/Effect/EffectPen/Resources/**"
+    ]
+  },
+  "dependencies": {
+    "EffectBitmapOverlay": [
+      "1.0.0-beta"
+    ]
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.3",
+  "pod_target_xcconfig": {
+    "BUILD_LIBRARY_FOR_DISTRIBUTION": "YES"
+  },
+  "swift_version": "5.3"
+}

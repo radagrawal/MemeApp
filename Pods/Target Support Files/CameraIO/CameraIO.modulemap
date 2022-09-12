@@ -1,0 +1,6 @@
+framework module CameraIO {
+  umbrella header "CameraIO-umbrella.h"
+
+  export *
+  module * { export * }
+}

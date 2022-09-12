@@ -1,0 +1,6 @@
+framework module OneCameraGradientFilter {
+  umbrella header "OneCameraGradientFilter-umbrella.h"
+
+  export *
+  module * { export * }
+}

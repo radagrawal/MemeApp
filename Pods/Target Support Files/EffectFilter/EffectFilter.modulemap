@@ -1,0 +1,6 @@
+framework module EffectFilter {
+  umbrella header "EffectFilter-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "CameraTelemetry",
+  "version": "1.0.0-beta",
+  "summary": "Telemetry for OneCamera",
+  "license": {
+    "type": "Copyright",
+    "text": "Copyright (c) Microsoft Corporation.  All rights reserved."
+  },
+  "homepage": "https://dev.azure.com/OneCamera/SDK/_git/OneCameraiOS",
+  "authors": {
+    "Flipgrid": "info@flipgrid.com"
+  },
+  "source": {
+    "git": "https://OneCamera@dev.azure.com/OneCamera/SDK/_git/OneCameraiOS",
+    "tag": "1.0.0-beta"
+  },
+  "source_files": "Sources/Core/CameraTelemetry/**/*.swift",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.3",
+  "pod_target_xcconfig": {
+    "BUILD_LIBRARY_FOR_DISTRIBUTION": "YES"
+  },
+  "testspecs": [
+    {
+      "name": "Tests",
+      "test_type": "unit",
+      "dependencies": {
+        "Mocks": [
+
+        ]
+      },
+      "source_files": "Tests/Core/CameraTelemetryTests/**/*.{h,m,swift}"
+    }
+  ],
+  "swift_version": "5.3"
+}

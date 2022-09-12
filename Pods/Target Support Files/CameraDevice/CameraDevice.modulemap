@@ -1,0 +1,6 @@
+framework module CameraDevice {
+  umbrella header "CameraDevice-umbrella.h"
+
+  export *
+  module * { export * }
+}

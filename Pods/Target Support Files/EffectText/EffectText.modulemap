@@ -1,0 +1,6 @@
+framework module EffectText {
+  umbrella header "EffectText-umbrella.h"
+
+  export *
+  module * { export * }
+}

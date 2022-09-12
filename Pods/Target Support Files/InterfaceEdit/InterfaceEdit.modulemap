@@ -1,0 +1,6 @@
+framework module InterfaceEdit {
+  umbrella header "InterfaceEdit-umbrella.h"
+
+  export *
+  module * { export * }
+}
